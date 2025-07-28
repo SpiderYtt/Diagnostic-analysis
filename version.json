@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.1",
-  "url": "https://raw.githubusercontent.com/SpiderYtt/Diagnostic-analysis/refs/heads/main/dist/诊断辅助分析系统.exe",
+  "version": "1.0.0.2",
+  "url": "https://raw.githubusercontent.com/SpiderYtt/Diagnostic-analysis/main/dist/诊断辅助分析系统.exe",
   "hash": "db010fd8a5818325df38a8fbc6a1e9625d34795c223c29c5711dd90f4d2e16ea",
-  "notes": "第1.0.0.1版本更新测试"
+  "notes": "第1.0.0.2版本更新测试"
 }
