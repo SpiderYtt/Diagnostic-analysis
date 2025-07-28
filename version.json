@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.0",
-  "url": "https://github.com/yourname/yourrepo/releases/download/v1.0.0/MyApp_1.0.0.exe",
-  "hash": "（稍后填）",
-  "notes": "初始版本"
+  "version": "1.0.0.1",
+  "url": "https://github.com/SpiderYtt/Diagnostic-analysis/releases/tag/v1.0.0/default.exe",
+  "hash": "a9665c649d533c5b8444b6cd132fe1110eadd981",
+  "notes": "第1.0.0.1版本更新测试"
 }
